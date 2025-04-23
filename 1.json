@@ -7,12 +7,12 @@
             "birthday": 1090281600000,
             "_id": "5e17fdddb52fab52fe669ab1"
         },
-        "id": "5e17fdddb52fab52fe669ab1_9223370291619178807_tr",
+        "id": "5e17fdddb52fab52fe669ab1_9223370291533500807_tr",
         "feel": -1,
-        "calorie": 143,
-        "duration": 1843,
-        "startTime": 1745233750000,
-        "endTime": 1745235597000,
+        "calorie": 145,
+        "duration": 1931,
+        "startTime": 1745319342000,
+        "endTime": 1745321275000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "public": false,
-            "exist": false
+            "exist": false,
+            "public": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 141.0,
-            "maxHeartRate": 164,
+            "heartRates": "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",
+            "averageHeartRate": 138.0,
+            "maxHeartRate": 167,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -52,7 +52,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI WATCH 4 Pro",
-            "vendorRecordId": "1745233750000_tr_skipping"
+            "vendorRecordId": "1745319342000_tr_skipping"
         },
         "planId": null,
         "workoutId": null,
@@ -65,7 +65,45 @@
         "feedbacks": null,
         "playType": null,
         "dataType": "skipping",
-        "badgeAchievementCard": null,
+        "badgeAchievementCard": {
+            "cardName": "运动成就徽章",
+            "cardType": "BADGE_ACHIEVEMENT_CARD",
+            "data": {
+                "jumpHomeUrl": "https://m.gotokeep.com/glory-page/badge/home?fullscreen=true&userId=5e17fdddb52fab52fe669ab1&visitUserId=5e17fdddb52fab52fe669ab1&refer=complete_card",
+                "showCard": true,
+                "bindProduct": "0",
+                "badgeIdList": "6278b94331d7e20001fccd6e",
+                "cardList": [
+                    {
+                        "badgeId": "6278b94331d7e20001fccd6e",
+                        "badgeType": null,
+                        "name": "训练等级 Lv7",
+                        "status": null,
+                        "desc": "在 Keep 累计训练 1600 分钟即可达成",
+                        "picture": "https://static1.keepcdn.com/glory-cms/2022/5/9/1652079279939d7p1m0xg_720x720.png",
+                        "notAchievePicture": null,
+                        "modelUrl": null,
+                        "condition": null,
+                        "conditionEvent": null,
+                        "metric": null,
+                        "totalValue": null,
+                        "startTime": 0,
+                        "endTime": 0,
+                        "userId": null,
+                        "overValue": null,
+                        "percent": null,
+                        "progress": null,
+                        "doneTime": 1745321275000,
+                        "showMsg": "新达成",
+                        "schema": "https://m.gotokeep.com/glory-page/badge/detail?fullscreen=true&userId=5e17fdddb52fab52fe669ab1&refer=complete_card&badgeId=6278b94331d7e20001fccd6e&curOrder=7&badgeType=milestone",
+                        "trainType": "training",
+                        "productId": null,
+                        "bindProduct": "0",
+                        "sort": 0
+                    }
+                ]
+            }
+        },
         "trainingCourseType": null,
         "trainingSource": "others",
         "groups": [],
